@@ -4,7 +4,8 @@ This repository contains a Python script to parse AWS parameters from an Excel f
 
 ## How to Run the Python Script
 
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+Save the script as Task1-Excel_File_Parsing.py, Open your terminal or command prompt.
+
+Run the script with the command.
+
+python Task1-Excel_File_Parsing.py
