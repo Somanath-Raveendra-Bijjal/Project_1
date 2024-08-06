@@ -33,6 +33,7 @@ The script performs the following tasks:
 
 3. **Install** the required libraries if you haven't already. Open your terminal or command prompt and run:
 
+4.python Task2-Settings_Comparison.py
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -55,6 +56,8 @@ The script performs the following tasks:
 2. **Ensure** that you have Python installed on your system.
 
 3. **Install** the required libraries if you haven't already. Open your terminal or command prompt and run:
+
+4. python Task3-Backup_and_Restore.py
 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -89,6 +92,8 @@ The script performs the following tasks:
 
 6. **Navigate** to the directory where you saved the script. Use the `cd` command to change to the directory.
 
+7. python Task4-Logging_and_Error_Handling.py
+
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -115,3 +120,5 @@ For testing the script, we use Python's built-in `unittest` framework. This allo
    - **Mac/Linux:** Open the Terminal application.
 
 5. **Navigate** to the directory where you saved the test script. Use the `cd` command to change to the directory.
+
+6. python Task5-Unit_Testing_and_Test_Automation.py
