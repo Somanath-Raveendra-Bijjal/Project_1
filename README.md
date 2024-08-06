@@ -33,7 +33,7 @@ The script performs the following tasks:
 
 3. **Install** the required libraries if you haven't already. Open your terminal or command prompt and run:
 
-4.python Task2-Settings_Comparison.py
+4. python Task2-Settings_Comparison.py
 
 ----------------------------------------------------------------------------------------------------------------------------
 
