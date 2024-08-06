@@ -1,4 +1,4 @@
-# Task1 : Excel File Parsing
+# Task 1: Excel File Parsing
 
 This repository contains a Python script to parse AWS parameters from an Excel file and extract relevant data.
 
@@ -13,7 +13,7 @@ python Task1-Excel_File_Parsing.py
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-# Task :2 Settings Comparison
+# Task 2: Settings Comparison
 
 This repository contains a Python script to compare settings from an Excel file with settings in an XML file and highlight discrepancies.
 
@@ -36,7 +36,7 @@ The script performs the following tasks:
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-# Task : 3 Backup_and_Restore_Functionality
+# Task 3: Backup_and_Restore_Functionality
 
 This repository contains a Python script to update an XML file with data from an Excel file.
 
@@ -59,7 +59,7 @@ The script performs the following tasks:
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-# Task : 4 Logging and Error Handling
+# Task 4: Logging and Error Handling
 
 This repository contains a Python script that enhances backup and restore functionality with robust logging and error handling mechanisms.
 
@@ -92,7 +92,7 @@ The script performs the following tasks:
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-# Task : 5 Unit Testing and Test Automation
+# Task 5: Unit Testing and Test Automation
 
 This repository contains a Python script for backing up and restoring directories, enhanced with logging and error handling. 
 This section describes how to test the functionality of the script using the `unittest` framework.
