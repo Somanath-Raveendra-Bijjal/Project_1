@@ -90,7 +90,7 @@ The script performs the following tasks:
    - **Windows:** Search for "Command Prompt" or "PowerShell" and open it.
    - **Mac/Linux:** Open the Terminal application.
 
-6. **Navigate** to the directory where you saved the script. Use the `cd` command to change to the directory.
+6. **Navigate** to the directory where you saved the script. Use the `cd` command to change to the directory, Open your terminal or command prompt and run:
 
 7. python Task4-Logging_and_Error_Handling.py
 
@@ -119,6 +119,6 @@ For testing the script, we use Python's built-in `unittest` framework. This allo
    - **Windows:** Search for "Command Prompt" or "PowerShell" and open it.
    - **Mac/Linux:** Open the Terminal application.
 
-5. **Navigate** to the directory where you saved the test script. Use the `cd` command to change to the directory.
+5. **Navigate** to the directory where you saved the test script. Use the `cd` command to change to the directory, Open your terminal or command prompt and run:
 
 6. python Task5-Unit_Testing_and_Test_Automation.py
